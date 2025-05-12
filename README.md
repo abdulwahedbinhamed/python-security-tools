@@ -37,7 +37,10 @@ Integrate with AI/ML techniques for more intelligent security tools
 Feel free to fork this repo, create a new branch, and submit pull requests with your improvements. Open issues if you have suggestions or need help with any tools.
 
 👨‍💻 Connect with Me:
+
 LinkedIn: https://www.linkedin.com/in/abdul-wahed-bin-ha
+
 GitHub: https://github.com/abdulwahedbinhamed
+
 💡 Note:
 These scripts are created for educational purposes only. Make sure you use them in legal environments, such as your own devices, or in environments where you have permission.
